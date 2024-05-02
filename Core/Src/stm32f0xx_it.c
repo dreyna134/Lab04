@@ -124,6 +124,7 @@ void PendSV_Handler(void)
   */
 void SysTick_Handler(void)
 {
+	return;
   /* USER CODE BEGIN SysTick_IRQn 0 */
 
   /* USER CODE END SysTick_IRQn 0 */
